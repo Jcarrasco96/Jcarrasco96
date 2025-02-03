@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Jesus
 
 <!--
 **Jcarrasco96/Jcarrasco96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🕊 I write open source software in my free time
+- 💬 Ask me about **web security**
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jcarrasco96&show_icons=true&locale=en)](https://jcarrasco96.com)
