@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🕊 I write open source software in my free time
+- 🖥 I write open source software in my free time
 - 💬 Ask me about **web security**
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jcarrasco96&show_icons=true&locale=en)](https://jcarrasco96.com)
