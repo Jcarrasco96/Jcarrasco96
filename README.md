@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jesus
 
-#### Software engineer, I have experience developing in technologies like React, Node.js, Angular, Go and databases like SQL and MongoDB.
+#### Software engineer, I have experience developing in technologies like PHP, Node.js, Angular and databases like MySQL and MongoDB.
 
 <hr>
 
