@@ -5,15 +5,15 @@
 #### Principal languages and tools
 
 <p>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=13aa52&logo=MongoDB&logoColor=FFFFFF&label=" alt="mongodb"/>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" alt="node.js"/>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=ED8B00&logo=openjdk&logoColor=FFFFFF&label=" alt="java"/>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt="git"/>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=" alt="angular"/>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=.NET&logoColor=FFFFFF&label=" alt=".net" />
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=" alt="node.js"/>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="python"/>
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt="mysql" />
+	<a href="https://www.mongodb.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=13aa52&logo=MongoDB&logoColor=FFFFFF&label=" alt="mongodb"/></a>
+	<a href="https://nodejs.org/en"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" alt="node.js"/></a>
+	<a href="https://www.java.com/en/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=ED8B00&logo=openjdk&logoColor=FFFFFF&label=" alt="java"/></a>
+	<a href="https://git-scm.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt="git"/></a>
+	<a href="https://angular.dev/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=" alt="angular"/></a>
+	<a href="https://dotnet.microsoft.com/en-us/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=5C2D91&logo=.NET&logoColor=FFFFFF&label=" alt=".net" /></a>
+	<a href="https://www.php.net/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF&label=" alt="node.js"/></a>
+	<a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="python"/></a>
+	<a href="https://www.mysql.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt="mysql" /></a>
 </p>
 
 #### To contact me you can write me through
